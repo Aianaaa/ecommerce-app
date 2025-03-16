@@ -3,6 +3,7 @@
 # 🛒 Shyrdak – Full Stack E-commerce Website  
 
 [![Website](https://img.shields.io/badge/Live%20Demo-ecommerce--frontend--ten--beige.vercel.app-blue)](https://ecommerce-frontend-ten-beige.vercel.app/)
+[![Website](https://img.shields.io/badge/Live%20Demo-ecommerce--admin--ten--beige.vercel.app-blue)](https://ecommerce-admin-lime-nine.vercel.app/)
 
 ## 📌 About the Project  
 
